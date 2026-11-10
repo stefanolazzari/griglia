@@ -1,0 +1,8 @@
+{
+  "name": "ws-grid",
+  "version": "1.0.0",
+  "description": "Immagine o video suddivisi in griglia su più client via WebSocket + p5.js",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
